@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+
+}
+
+#detalle {
+    width:100%;
+    padding: 20px;
+  
+}
+
+.nav {
+    margin: 20px 0;
+}
+
+#delete {
+    margin: 5px;
+}
+
+#informacion {
+    margin: 5px;
+}
